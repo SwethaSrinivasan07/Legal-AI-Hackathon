@@ -56,10 +56,10 @@ Legal infrastructure for businesses is broken. It's expensive, inaccessible, and
 
 | Phase | Focus | Timeline |
 |---|---|---|
-| v1 | All 5 modules live (core flows) | Months 0–6 |
-| v2 | Compliance suite, cap table, document vault | Months 6–12 |
-| v3 | Multi-state filings, deeper contract library | Months 12–18 |
-| v4 | International market entry, multi-jurisdiction compliance | Months 18–30 |
+| v1 | All 5 modules live (core flows) | Months 0 - 6 |
+| v2 | Compliance suite, cap table, document vault | Months 6 - 12 |
+| v3 | Multi-state filings, deeper contract library | Months 12 - 18 |
+| v4 | International market entry, multi-jurisdiction compliance | Months 18 - 30 |
 
 **Long-term vision:** Legal Foundry becomes the default legal infrastructure layer for startups and SMBs — from day zero incorporation through global expansion — replacing the need for a general counsel until a company is large enough to hire one.
 
